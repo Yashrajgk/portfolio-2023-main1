@@ -17,7 +17,7 @@ const Form = () => {
             "service_guiwqi9", // Service ID
             "template_7005jdm", // Template ID
             userInput,
-            "Pgg63zTq1DZwUdifb" // Public Key - https://dashboard.emailjs.com/admin/account
+            "VyBOx-RBzy91MsnV5" // Public Key - https://dashboard.emailjs.com/admin/account
         )
             .then((response) => {
                 console.log("SUCCESS!", response.status, response.text);
